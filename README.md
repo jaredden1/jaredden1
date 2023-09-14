@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile!
 
+<a href="https://imgur.com/Y2595ki"><img src="https://i.imgur.com/Y2595ki.png" title="source: imgur.com" /></a>
 
 👨‍💻 Software Engineer in the Making | Lifelong Learner | Problem Solver
 
