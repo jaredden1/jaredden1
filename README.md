@@ -10,8 +10,16 @@
 
 ## Skills
 
-- Programming Languages: Python, JavaScript
-- Web Development: HTML, CSS, React, Express
+- JavaScript
+- React
+- Node.js
+- Express
+- CSS
+- HTML
+- MongoDB
+- Tailwind CSS
+- Python
+- Django
 
 ## Connect with Me
 
