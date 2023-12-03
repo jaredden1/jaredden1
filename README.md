@@ -10,6 +10,12 @@
 - 📫  <a href="https://james-redden-portfolio.netlify.app/contact" target="_blank" rel="noreferrer">
         Contact me here
       </a>
+
+## About Me 🌟
+
+I am a passionate full-stack developer with a unique blend of skills developed through my journey in entrepreneurship, business management, and leadership. I excel in fast-paced environments and am dedicated to delivering exceptional results. With a strong foundation in software engineering, I am adept at leading and managing diverse teams, always eager to learn and adapt to new technologies. 
+
+My experience as a business owner has honed my soft skills, making me a dynamic and well-rounded contributor to any team. I am deeply committed to enhancing user experiences and prioritize end-user needs in every project. My versatility as a developer enables me to deliver impactful solutions in various contexts.
    
 
 ## Skills 🚀
