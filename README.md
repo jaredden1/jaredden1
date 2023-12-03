@@ -6,6 +6,7 @@
 
 - 🚀 I'm actively engaged in challenging projects and consistently expanding my skill set.
 - 💬 Feel free to reach out to me for collaboration or questions.
+- * 🖥️  See my portfolio at [Portfolio](http://james-redden-portfolio.netlify.app/)
 - 📫 You can contact me at james.ifit@gmail.com.
 
 ## Skills 🚀
