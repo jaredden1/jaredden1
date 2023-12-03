@@ -2,9 +2,9 @@
 
 <a href="https://imgur.com/Y2595ki"><img src="https://i.imgur.com/Y2595ki.png" title="source: imgur.com" /></a>
 
-👨‍💻 Software Engineer in the Making | Lifelong Learner | Problem Solver
+👨‍💻 **Software Engineer | Lifelong Learner | Problem Solver**
 
-- 🌱 I'm currently learning and working on exciting projects.
+- 🚀 I'm actively engaged in challenging projects and consistently expanding my skill set.
 - 💬 Feel free to reach out to me for collaboration or questions.
 - 📫 You can contact me at james.ifit@gmail.com.
 
@@ -21,7 +21,9 @@
 - Python
 - Django
 
-## Connect with Me
+## Connect with Me 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/jamesredden1/)
+- [GitHub](https://github.com/jaredden1)
+- [Portfolio](https://james-redden-portfolio.netlify.app/)
 
