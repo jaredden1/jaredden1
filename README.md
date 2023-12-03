@@ -2,7 +2,7 @@
 
 <a href="https://imgur.com/Y2595ki"><img src="https://i.imgur.com/Y2595ki.png" title="source: imgur.com" /></a>
 
-👨‍💻 **Software Engineer | Lifelong Learner | Problem Solver**
+### 👨‍💻 **Software Engineer | Lifelong Learner | Problem Solver**
 
 - 🚀 I'm actively engaged in challenging projects and consistently expanding my skill set.
 - 💬 Feel free to reach out to me for collaboration or questions.
@@ -11,7 +11,7 @@
         Contact me here
       </a>
 
-## About Me 🌟
+## About Me 👨‍💻
 
 I am a passionate full-stack developer with a unique blend of skills developed through my journey in entrepreneurship, business management, and leadership. I excel in fast-paced environments and am dedicated to delivering exceptional results. With a strong foundation in software engineering, I am adept at leading and managing diverse teams, always eager to learn and adapt to new technologies. 
 
