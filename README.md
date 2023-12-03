@@ -6,7 +6,7 @@
 
 - 🚀 I'm actively engaged in challenging projects and consistently expanding my skill set.
 - 💬 Feel free to reach out to me for collaboration or questions.
-- 🖥️  See my portfolio at [Portfolio](http://james-redden-portfolio.netlify.app/)
+- 🖥️  Check out my [Portfolio](http://james-redden-portfolio.netlify.app/)
 - 📫  <a href="https://james-redden-portfolio.netlify.app/contact" target="_blank" rel="noreferrer">
         Contact me here
       </a>
