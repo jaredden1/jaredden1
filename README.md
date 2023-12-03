@@ -10,6 +10,8 @@
 - 📫  <a href="https://james-redden-portfolio.netlify.app/contact" target="_blank" rel="noreferrer">
         Contact me here
       </a>
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaredden1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jaredden1" /> </p>
 
 ## About Me 👨‍💻
 
