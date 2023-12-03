@@ -8,7 +8,7 @@
 - 💬 Feel free to reach out to me for collaboration or questions.
 - 📫 You can contact me at james.ifit@gmail.com.
 
-## Skills
+## Skills 🚀
 
 - JavaScript
 - React
