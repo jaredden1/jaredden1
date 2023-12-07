@@ -1,4 +1,4 @@
- # Hello world ! 👋 Welcome to my GitHub Profile!
+ # Hello world! 👋 Welcome to my GitHub Profile!
 
 <a href="https://imgur.com/Y2595ki"><img src="https://i.imgur.com/Y2595ki.png" title="source: imgur.com" /></a>
 
@@ -15,7 +15,7 @@
 
 I am a passionate full-stack developer with a unique blend of skills developed through my journey in entrepreneurship, business management, and leadership. I excel in fast-paced environments and am dedicated to delivering exceptional results. With a strong foundation in software engineering, I am adept at leading and managing diverse teams, always eager to learn and adapt to new technologies. 
 
-My experience as a business owner has honed my soft skills, making me a dynamic and well-rounded contributor to any team. I am deeply committed to enhancing user experiences and prioritize end-user needs in every project. My versatility as a developer enables me to deliver impactful solutions in various contexts.
+My experience as a business owner has honed my soft skills, making me a dynamic and well-rounded contributor to any team. I am deeply committed to enhancing user experiences and prioritizing end-user needs in every project. My versatility as a developer enables me to deliver impactful solutions in various contexts.
    
 <p>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaredden1&show_icons=true&theme=transparent">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
