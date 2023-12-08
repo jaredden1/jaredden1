@@ -17,11 +17,9 @@ I am a passionate full-stack developer with a unique blend of skills developed t
 
 My experience as a business owner has honed my soft skills, making me a dynamic and well-rounded contributor to any team. I am deeply committed to enhancing user experiences and prioritizing end-user needs in every project. My versatility as a developer enables me to deliver impactful solutions in various contexts.
    
-<p>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaredden1&show_icons=true&theme=transparent">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img width="38%" src="https://streak-stats.demolab.com/?user=jaredden1&theme=transparent&border_radius=4.5&date_format=j%20M%5B%20Y%5D&card_width=360">
-</p>
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.github.com/jaredden1"><img src="https://github-readme-stats.vercel.app/api?username=jaredden1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jaredden1's GitHub stats" /></a><a href="http://www.github.com/jaredden1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaredden1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## Skills 🚀
 
