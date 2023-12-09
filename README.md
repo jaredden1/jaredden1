@@ -19,7 +19,7 @@ My experience as a business owner has honed my soft skills, making me a dynamic 
    
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.github.com/jaredden1"><img src="https://github-readme-stats.vercel.app/api?username=jaredden1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jaredden1's GitHub stats" width="345" /></a><a href="http://www.github.com/jaredden1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaredden1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="380" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.github.com/jaredden1"><img src="https://github-readme-stats.vercel.app/api?username=jaredden1&show_icons=true&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jaredden1's GitHub stats" width="452"/></a><a href="http://www.github.com/jaredden1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaredden1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="380" />
 </a>
 
 ## Skills 🚀
