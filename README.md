@@ -6,8 +6,8 @@
 
 - 🚀 I'm actively engaged in challenging projects and consistently expanding my skill set.
 - 💬 Feel free to reach out to me for collaboration or questions.
-- 🖥️  Check out my [Portfolio](http://james-redden-portfolio.com/)
-- 📫  Contact me [here](https://james-redden-portfolio.com/contact)
+- 🖥️  Check out my [Portfolio](http://www.james-redden-portfolio.com/)
+- 📫  Contact me [here](https://www.james-redden-portfolio.com/contact)
       </a>
 </br>
 
