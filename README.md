@@ -8,8 +8,8 @@
 
 - 🚀 I'm actively engaged in challenging projects and consistently expanding my skills.
 - 💬 Feel free to reach out to me for collaboration or questions.
-- 📁  Check out my [Portfolio](https://james-redden-portfolio.netlify.app/)
-- 📫  Contact me [here](https://james-redden-portfolio.netlify.app/contact)
+- 📁  Check out my [Portfolio](https://james-redden-portfolio.com/)
+- 📫  Contact me [here](https://james-redden-portfolio.com/contact)
       </a>
 </br>
 
