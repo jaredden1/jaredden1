@@ -6,10 +6,10 @@
 
 
 
-- 🚀 I'm actively engaged in challenging projects and consistently expanding my skills.
-- 💬 Feel free to reach out to me for collaboration or questions.
-- 📁  Check out my [Portfolio](https://www.james-redden-portfolio.com/)
-- 📫  Contact me [here](https://www.james-redden-portfolio.com/contact)
+ 🚀 I'm actively engaged in challenging projects and consistently expanding my skills.</br>
+ 💬 Feel free to reach out to me for collaboration or questions.</br>
+ 📁  Check out my [Portfolio](https://www.james-redden-portfolio.com/)</br>
+ 📫  Contact me [here](https://www.james-redden-portfolio.com/contact)</br>
       </a>
 </br>
 
@@ -22,7 +22,7 @@ My experience as a business owner has honed my soft skills, making me a dynamic 
 
 
 
-## Skills 🚀
+## My Skills 🚀
 
 <p align="left">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;&nbsp;
