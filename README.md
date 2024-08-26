@@ -8,8 +8,8 @@
 
  🚀 I'm actively engaged in challenging projects and consistently expanding my skills.</br>
  💬 Feel free to reach out to me for collaboration or questions.</br>
- 📁  Check out my [Portfolio](https://www.james-redden-portfolio.com/)</br>
- 📫  Contact me [here](https://www.james-redden-portfolio.com/contact)</br>
+ 📁  Check out my <a href="https://www.james-redden-portfolio.com/" target="_blank">Portfolio</a></br>
+ 📫  Contact me <a href="https://www.james-redden-portfolio.com/contact" target="_blank">here</a></br>
       </a>
 </br>
 
